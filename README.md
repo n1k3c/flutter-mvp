@@ -1,6 +1,6 @@
 # Flutter MVP
 
-A Flutter project with MVP architecture.
+A Flutter project with MVP architecture (pattern).
 
 This is modifeid version with current Flutter (beta) release. 
 
